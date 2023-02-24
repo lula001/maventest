@@ -4,7 +4,8 @@
   <test thread-count="5" name="Test">
     <parameter name="Browser" value="Chrome"/>
     <classes>
-      <class name="mavenforjenkins.UITest"/>         
+      <class name="mavenforjenkins.UITest"/>
+      //maventest
     </classes>
   </test> 
 </suite> 
