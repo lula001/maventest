@@ -5,7 +5,7 @@
 	<groupId>mavenforjenkins</groupId>
 	<artifactId>mavenforjenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+	//test1
 	<!-- added comments -->
 	<properties>
   	 	 <maven.compiler.source>1.8</maven.compiler.source>
